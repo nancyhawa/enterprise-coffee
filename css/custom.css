@@ -12,3 +12,7 @@ File Description: Place here your custom CSS styles
   width: 85%;
   margin: auto;
 }
+
+.navbar-collapse {
+  padding-right: 0px !important;
+}
